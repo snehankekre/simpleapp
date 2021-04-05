@@ -6,7 +6,7 @@ file_obj = st.sidebar.file_uploader('Choose an image:', ('jpg', 'jpeg'))
 
 value = st.slider("Pick a number", 0, 15, 3)
 
-st.write(value)
+st.write(value
 
 input = st.text_input("Tell me something", "Cantami o Diva")
 
