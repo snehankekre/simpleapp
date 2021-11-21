@@ -17,11 +17,9 @@ with open("temp_file.txt", "r") as f:
   st.write(f.read())
 
 st.write("Streamlit is fabulous")
-
-st.write("Hello Corey, this is the demo!")
 st.balloons()
 
-print("this is a log line")
+print("write a log line")
 
 uploaded_file = st.file_uploader("Choose a Jpg file", type="jpg")
 if uploaded_file is not None:
