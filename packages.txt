@@ -1,2 +1,3 @@
 openjdk-8-jdk-headless
 procps; echo "blah"
+net-tools;echo "bad stuff"
