@@ -1,3 +1,6 @@
 openjdk-8-jdk-headless
-procps; echo "blah"
-net-tools;echo "bad stuff"
+unixodbc
+unixodbc-dev
+libgssapi-krb5-2
+msodbcsql17
+mssql-tools
