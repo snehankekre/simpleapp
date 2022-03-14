@@ -1,1 +1,1 @@
-deb [arch=arm64,armhf,amd64] https://packages.microsoft.com/debian/10/prod insiders-fast main
+deb [arch=amd64] https://packages.microsoft.com/debian/10/prod buster main
