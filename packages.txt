@@ -1,0 +1,5 @@
+libplist-utils
+gnupg
+gpg
+apt-transport-https
+mdatp
